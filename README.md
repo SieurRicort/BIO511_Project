@@ -1,2 +1,6 @@
 # BIO511_Project
-Genomic analysis project
+Authors: Sacha Ricort & Pedro Daniel
+
+## Genomic analysis project
+Species: *Klebsiella pneumoniae*
+Strain: CCUG 58547
